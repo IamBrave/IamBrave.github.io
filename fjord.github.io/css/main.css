@@ -602,7 +602,7 @@ a.buildit-ipad__link {
 .footer-block li {
 	margin-bottom: 30px;
 }
-.footer-block:hover {
+.footer-block li:hover {
 	opacity: 1;
 }
 .footer-left-menu :last-child {
